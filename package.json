@@ -1,0 +1,17 @@
+{
+  "name": "watch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "./node-modules/nodemon/bin/nodemon.js src/server.js"
+  },
+  "keywords": [],
+  "author": "Ayomide juri",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "lodash": "^4.17.10",
+    "nodemon": "^1.18.2"
+  }
+}
